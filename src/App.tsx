@@ -208,7 +208,7 @@ function App() {
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   <span className="px-3 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm">React</span>
-                  <span className="px-3 py-1 bg-purple-500/20 text-purple-400 rounded-full text-sm">Next.js</span>
+                 
                 </div>
                 <div className="flex items-center space-x-4">
                   <a href="https://symptoms-indicators-usama.vercel.app/" target="_blank" rel="noopener noreferrer" 
@@ -236,8 +236,8 @@ function App() {
                   A platform connecting blood donors with those in need across Pakistan, streamlining the blood donation process and saving lives.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  <span className="px-3 py-1 bg-red-500/20 text-red-400 rounded-full text-sm">MERN Stack</span>
-                  <span className="px-3 py-1 bg-yellow-500/20 text-yellow-400 rounded-full text-sm">MongoDB</span>
+                  <span className="px-3 py-1 bg-red-500/20 text-red-400 rounded-full text-sm">javascript</span>
+               
                 </div>
                 <div className="flex items-center space-x-4">
                   <a href="https://blod-connects-pk.vercel.app/" target="_blank" rel="noopener noreferrer" 
@@ -265,8 +265,8 @@ function App() {
                   An interactive map application that helps users locate nearby medical laboratories and healthcare facilities, making healthcare more accessible.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  <span className="px-3 py-1 bg-green-500/20 text-green-400 rounded-full text-sm">React</span>
-                  <span className="px-3 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm">Maps API</span>
+                 
+                  <span className="px-3 py-1 bg-blue-500/20 text-blue-400 rounded-full text-sm"> open street Maps API</span>
                   <span className="px-3 py-1 bg-purple-500/20 text-purple-400 rounded-full text-sm">Node.js</span>
                 </div>
                 <div className="flex items-center space-x-4">
